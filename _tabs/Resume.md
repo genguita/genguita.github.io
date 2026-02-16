@@ -5,7 +5,7 @@ order: 2
 
 # WIP (needs some more detail now that there is no space limit & a proper spanish translation of the CV)
 
-<small>You can download a *resumed* version of my resume [here](https://github.com/genguita/genguita.github.io/assets/resume/GuillermoEnguitaLahoz-CV-EN.pdf) (or [here](https://github.com/genguita/genguita.github.io/assets/resume/GuillermoEnguitaLahoz-CV-ES.pdf) for the Spanish version).</small>
+<small>You can check a *resumed* version of my resume <a href="https://raw.githubusercontent.com/genguita/genguita.github.io/main/assets/resume/GuillermoEnguitaLahoz-CV-EN.pdf">here</a> (or <a href="https://raw.githubusercontent.com/genguita/genguita.github.io/main/assets/resume/GuillermoEnguitaLahoz-CV-ES.pdf">here</a> for the Spanish version).</small>
 <small>Last updated in February 2026.</small>
 
 ## Experience
