@@ -12,7 +12,7 @@ order: 2
 ### Research Engineer @ Graphics & Imaging Lab
 *Universidad de Zaragoza, Spain*  
 *January 2024 – February 2026*  
-*Supervised by [prof. Albert Redó](https://redo-sanchez.github.io/) and [prof. Diego Gutiérrez](http://giga.cps.unizar.es/~diegog/)*
+*Supervised by [prof. Albert Redó](https://redo-sanchez.github.io/) and [prof. Diego Gutiérrez](https://giga.cps.unizar.es/~diegog/)*
 
 ---
 
@@ -28,7 +28,7 @@ My main responsabilities in this role incuded:
 ### Academic research intership @ Graphics & Imaging Lab
 *Universidad de Zaragoza (in collaboration with BSH), Spain*  
 *February 2023 – September 2023*  
-*Supervised by [prof. Ana Serrano](https://ana-serrano.github.io/) and [prof. Diego Gutiérrez](http://giga.cps.unizar.es/~diegog/)*
+*Supervised by [prof. Ana Serrano](https://ana-serrano.github.io/) and [prof. Diego Gutiérrez](https://giga.cps.unizar.es/~diegog/)*
 
 ---
 
