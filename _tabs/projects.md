@@ -15,7 +15,7 @@ Implemented by [Daniel Sanz](https://github.com/dsanz23) and me for the Modeling
 - Depth of Field simulation
 - Translucent materials
 
-We implemented translucency following the paper ['A Rapid Hierarchical Rendering Technique for Translucent Materials'](http://graphics.ucsd.edu/~henrik/papers/fast_bssrdf/fast_bssrdf.pdf) by Henrik Wann Jensen and Juan Buhler. The algorithm consists of a two-step rendering process:
+We implemented translucency following the paper ['A Rapid Hierarchical Rendering Technique for Translucent Materials'](https://dl.acm.org/doi/10.1145/566654.566619) by Henrik Wann Jensen and Juan Buhler. The algorithm consists of a two-step rendering process:
 - **Irradiance caching**, points are uniformly distributed through the mesh, and irradiance is obtained by integrating incoming radiance on the hemisphere. Those values are organized in an octree and serialized to a binary file.
 - **Render step**, when the integrator intersects with a translucent mesh, it queries the octree to efficently compute the contribution coming from internally scattered light rays.
 
