@@ -40,7 +40,7 @@ As part of my undegrad, I spent 7 months as an intern in the Graphics & Imaging 
 ### Open source contributions
 ---
 
-I am a contributor to the [mitransient](https://github.com/diegoroyo/mitransient) and [y-tal](https://github.com/diegoroyo/tal) libraries, developed by students in the Graphics & Imaging Lab. These libraries provide a wrapper over the Mitsuba 3 framework, allowing for the simulation of transient light transport, as well as providing tools for NLOS simulation and reconstruction. Some of my contributions include:
+I am a contributor to the [mitransient](https://github.com/diegoroyo/mitransient) and [y-tal](https://github.com/diegoroyo/tal) libraries, developed by students of the Graphics & Imaging Lab. These libraries provide a wrapper over the Mitsuba 3 framework, allowing for the simulation of transient light transport, as well as providing tools for NLOS simulation and reconstruction. Some of my contributions include:
 
 - Reimplementation of a transient rendering algorithm, obtaining a speed increase up to two orders of magnitude.
 - Implementation of a realistic sensor model, allowing users to simulate noise and artifacts seen in real hardware.
