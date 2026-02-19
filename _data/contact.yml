@@ -10,6 +10,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: lastfm
+  icon: "fa-brands fa-lastfm"
+  url: 'https://last.fm/user/GuilleQueso'
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
