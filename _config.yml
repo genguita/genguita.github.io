@@ -16,7 +16,7 @@ timezone: GMT+01
 
 title: genguita # the main title
 
-tagline: Computer science, graphics & stuff I enjoy. (WIP) 
+tagline: Computer science, graphics & stuff I enjoy.
 
 description: >- # used by seo meta and the atom feed
   My personal page for anything related to programming, computer graphics and random stuff.
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/avatar.jpg
+avatar: assets/img/portrait2.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
